@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+package calculator;
+option go_package = "calculator/calculatorpb";
+
+service CalculatorService {}
